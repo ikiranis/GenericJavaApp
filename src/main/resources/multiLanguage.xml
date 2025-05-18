@@ -51,14 +51,4 @@
         <language code="el">Ακύρωση</language>
     </entry>
 
-    <entry id="Menu">
-        <language code="en">Menu</language>
-        <language code="el">Μενού</language>
-    </entry>
-
-    <entry id="Menu Text">
-        <language code="en">Edit menu</language>
-        <language code="el">Επεξεργασία του μενού</language>
-    </entry>
-
 </root>

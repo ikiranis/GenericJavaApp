@@ -71,6 +71,7 @@ GenericJavaApp/
 - **Frontend:** Add new views and components in `frontend/src/`
 - **Internationalization:** Update language files in `src/main/resources/multiLanguage.xml` and frontend language store.
 - **App Titles/Branding:** You may change the app's titles, labels, and branding from "Generic" to your own app name. For example, update the sidebar, headers, and any visible text in the frontend to reflect your application's identity.
+- **Java Main Classes:** You may rename the main Java application classes (such as `GenericJavaApp.java` and related packages) to match your app's name and structure.
 
 ---
 
