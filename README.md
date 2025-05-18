@@ -2,6 +2,8 @@
 
 This project is a generic scaffold for building modern Java applications using Spring Boot for the backend and Vue 3 for the frontend. It is designed to help you quickly start new projects with a robust, full-stack foundation.
 
+![18-05--2025_18-47](https://github.com/user-attachments/assets/3ae2cbbb-2817-47fe-b62f-955138fbfd22)
+
 ## Features
 
 - **Backend:** Java 17+, Spring Boot, RESTful API structure
