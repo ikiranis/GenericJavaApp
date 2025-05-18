@@ -70,6 +70,7 @@ GenericJavaApp/
 - **Backend:** Add your own controllers, services, and models under `src/main/java/...`
 - **Frontend:** Add new views and components in `frontend/src/`
 - **Internationalization:** Update language files in `src/main/resources/multiLanguage.xml` and frontend language store.
+- **App Titles/Branding:** You may change the app's titles, labels, and branding from "Generic" to your own app name. For example, update the sidebar, headers, and any visible text in the frontend to reflect your application's identity.
 
 ---
 
