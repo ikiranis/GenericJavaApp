@@ -5,7 +5,6 @@ import {RouteRecordRaw, createRouter, createWebHashHistory} from "vue-router"
 import Home from "@/views/Home.vue"
 import Settings from "@/views/setting/Settings.vue"
 import Setting from "@/views/setting/Setting.vue"
-import Menu from "@/views/Menu.vue"
 
 const routes : RouteRecordRaw[] = [
     {
